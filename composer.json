@@ -1,5 +1,5 @@
 {
-    "name": "edwinfadilah/php-random-quotes-generator",
+    "name": "edwinfadilah/random-quotes",
     "description": "This library (originally taken from rakibtg/php-random-quotes-generator) will generate a random quote for you. This package is for my exercise purpose only.",
     "type": "library",
     "license": "MIT",
